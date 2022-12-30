@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Smitadutta78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-  Hi, I’m Smita Dutta. 👋🙂
+- 👀 I’m interested in learning programmings.
+- 🌱 I’m currently learning C andC++ programmings.
+-
 - 📫 How to reach me ...
 
-<!---
-Smitadutta78/Smitadutta78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
